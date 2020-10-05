@@ -18,6 +18,7 @@
 ### Grammatik
 
 - https://german.net/
+- https://deutsch.lingolia.com/en/grammar/tenses 
 
 #### Kein vs nicht
 ---
