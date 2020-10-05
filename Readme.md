@@ -20,6 +20,11 @@
 - https://german.net/
 - https://deutsch.lingolia.com/en/grammar/tenses 
 
+#### Accusative
+---
+
+- https://www.youtube.com/watch?v=8VowGvnRU_s
+
 #### Kein vs nicht
 ---
 
