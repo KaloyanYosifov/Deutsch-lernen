@@ -1,4 +1,4 @@
-# Here i am putting resources i find useful while learning German.
+## Here i am putting resources i find useful while learning German.
 
 ### Kein vs nicht
 
