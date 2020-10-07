@@ -1,5 +1,9 @@
 ## Here i am putting resources i find useful while learning German.
 
+### References check
+
+- https://www.dict.cc/
+
 ### Videos
 
 - [ ] - https://www.youtube.com/watch?v=4-eDoThe6qo - Der ganz Film (A1)
