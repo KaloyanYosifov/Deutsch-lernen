@@ -23,6 +23,7 @@
 
 - https://german.net/
 - https://deutsch.lingolia.com/en/grammar/tenses 
+- https://chatterbug.com/grammar/german/dative-dativ
 
 #### Accusative
 ---
