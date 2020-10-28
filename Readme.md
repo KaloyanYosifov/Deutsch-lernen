@@ -3,6 +3,7 @@
 ### References check
 
 - https://www.dict.cc/
+- https://yourdailygerman.com/nach-meaning/
 
 ### Videos
 
