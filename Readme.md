@@ -4,6 +4,7 @@
 
 - https://www.dict.cc/
 - https://yourdailygerman.com/nach-meaning/
+- https://yourdailygerman.com/
 
 ### Videos
 
