@@ -11,6 +11,8 @@
 - [ ] - https://www.youtube.com/watch?v=4-eDoThe6qo - Der ganz Film (A1)
 - [ ] - https://www.netflix.com/watch/80114790 - Dark
 - [ ] - https://www.youtube.com/playlist?list=PLGQBKSq2HITf3Px13eDGBgmJEeXfWa3wC - Funny film like Friends, but in German.
+- [ ] - https://yourdailygerman.com/wp-content/uploads/2013/06/german-question-words1.pdf
+- [ ] - https://yourdailygerman.com/german-question-words/
 
 ### Books
 
