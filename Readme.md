@@ -1,5 +1,3 @@
-## Here i am putting resources i find useful while learning German.
-
 ### References check
 
 - https://www.dict.cc/
@@ -14,7 +12,11 @@
 - [ ] - https://yourdailygerman.com/wp-content/uploads/2013/06/german-question-words1.pdf
 - [ ] - https://yourdailygerman.com/german-question-words/
 
-### Books
+### Lesenverstehen
+- [ ] - https://lingua.com/de/deutsch/lesen/
+- [ ] - https://de.islcollective.com/deutsch-daf-arbeitsblatter/wortschatz/zeit-raum-menge/hobbys-leseverstehen-a1/86963
+
+### Bücher
 
 - [ ] - [Amazon short story book for beginners](https://www.amazon.com/German-Short-Stories-Beginners-Unconventional/dp/1522741046/ref=as_li_ss_tl?ie=UTF8&qid=1492180275&sr=8-2&keywords=german+short+stories+for+beginners&linkCode=sl1&tag=tpl091-20&linkId=916d6fe2ddc16bc23b8ae0070acc7411)
 - [ ] - [Cafe in Berlin, beginner short stories](https://www.amazon.com/Learn-German-Stories-Berlin-Beginners-ebook/dp/B00F33E3C0/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=httplearngeco-20&linkId=cd11608da82ffd1ce200402039de1158&language=en_US)
@@ -29,7 +31,7 @@
 - https://deutsch.lingolia.com/en/grammar/tenses 
 - https://chatterbug.com/grammar/german/dative-dativ
 
-#### Accusative
+#### Akkusativ
 ---
 
 - https://www.youtube.com/watch?v=8VowGvnRU_s
